@@ -46,5 +46,8 @@
     },
     "Segment_Data.csv": {
         "description": "new description"
+    },
+    "nvda_option_hist_data.csv": {
+        "description": "where does the market expect the price to go"
     }
 }
